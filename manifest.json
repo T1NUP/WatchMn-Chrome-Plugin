@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Watchman Plugin",
+  "version": "1.0.0",
+  "icons": {
+    "16": "logos/icon.png",
+    "48": "logos/icon.png",
+    "128": "logos/icon.png"
+  },
+  "action": {
+    "default_icon": "logos/icon.png",
+    "default_title": "Watchman Plugin",
+    "default_popup": "src/popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://teams.microsoft.com/*"],
+      "js": ["src/contentScript/contentScript.js"]
+    }
+  ],
+  "permissions": ["contextMenus","tabs"]
+}
