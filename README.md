@@ -1,9 +1,14 @@
 ## Hello peeps👋!
-<p> WatchMn (isnpired from hindi word <i>chowkidar</i>) is chrome extenstion to capture the status of Teams Chat's of friends without moving to orignal tab. 
+<p> WatchMn (isnpired from hindi word <i>chowkidar</i>) is chrome extension to capture the status of Teams Chat's of friends without moving to orignal tab. 
 The user just has to keep the Teams app open in the browser and forget it. This extension grabs the status of the chats in the background and displays 
 it whenever / wherever requred in the tab in a pretiffied manner.</p>
 
-
+## Screenshots:-
+<p align="left">
+<img src="pics/init.png" height="450"/>
+ &nbsp; &nbsp; &nbsp;
+<img src="pics/available.png" height="450"/>
+ </p>
 
 ## How to use:-
 <li>Fork the app</li>
@@ -16,4 +21,4 @@ it whenever / wherever requred in the tab in a pretiffied manner.</p>
 ## Points to be noted:-
 <li>Microsoft Teams should be open in any window/tab of the Chrome browser.</li>
 <br /><br //
-<i>Please ignore the wrong spellings🙏</i>
+<i>Please ignore the wrong spellings🙏,some of them are intended</i>
